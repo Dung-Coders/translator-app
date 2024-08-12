@@ -155,7 +155,7 @@ body{
     border-top: 1px solid #ccc;
   }
   .text-input textarea{
-    height: 330px;
+    height: 250px;
     padding-left: 30px;
   }
   .controls{
